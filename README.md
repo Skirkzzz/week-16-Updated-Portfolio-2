@@ -1,5 +1,3 @@
-# week-8-Portfolio2
-
 ## About This Code
 
 This code uses HTML and CSS to generate a portfolio webpage.
