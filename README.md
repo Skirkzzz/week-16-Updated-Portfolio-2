@@ -18,7 +18,7 @@ The web page is asimple portfolio built with HTML and CSS. It is responsive for 
 
 ![Book Search Engine!](/assets/img/21-mern-homework-demo-01.png)
 
-##Weathermap with API Repository
+##Notetaker Application
 
 ![Notetaker APP!](/assets/img/NotetakerImg.png)
 
