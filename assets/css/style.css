@@ -9,11 +9,11 @@
 /* brand color palette */
 
 :root {
-  --primary: rgb(202, 151, 39);
+  --primary: rgb(26, 24, 20);
   --secondary: rgb(150, 146, 144);
-  --tertiary: rgba(49, 52, 61, 1);
-  --dark: rgba(28, 29, 33, 1);
-  --light: rgba(24, 24, 27, 0.572);
+  --tertiary: rgb(237, 240, 247);
+  --dark: rgb(240, 241, 245);
+  --light: rgba(233, 233, 240, 0.572);
 }
 
 /* set content highlight color and background */
