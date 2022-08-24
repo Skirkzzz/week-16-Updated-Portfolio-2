@@ -141,7 +141,7 @@ footer {
 }
 
 button {
-  font-size: 4.5rem;
+  font-size: 3.5rem;
   border-radius: 30px;
   color: var(--primary);
   justify-content: center;
@@ -186,12 +186,14 @@ button a {
   /* flex-direction: after; */
   width: 50%;
   color: var(--secondary);
+  display: flex;
 }
 
 .left-column {
   /* flex-wrap: wrap; */
   width: 50%;
   color: var(--secondary);
+  display: flex;
 }
 
 .img-profile {
