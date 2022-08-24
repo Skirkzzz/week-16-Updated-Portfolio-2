@@ -46,7 +46,10 @@ As part of this update I have completed the following;
 
 ![Simple Portfolio Page!](/assets/img/RepositoryinLinkedin.png)
 
-Licence
+##Licence
 MIT
 
 ---
+
+##Author
+https://github.com/Skirkzzz
