@@ -4,23 +4,23 @@ This code uses HTML and CSS to generate a portfolio webpage.
 
 The web page is asimple portfolio built with HTML and CSS. It is responsive for different size screens using media query.
 
-##Portfolio
-![Simple Portfolio Page!](/assets/img/Portfolio1PortfolioWebsite.png)
+##React Portfolio
+![React Portfolio Page!](/assets/img/ReactPortfolio.png)
 
 ##Real World News
-![Simple Portfolio Page!](/assets/img/Portfolio2RealWorldNews.png)
+![Real World News!](/assets/img/Portfolio2RealWorldNews.png)
 
-##Coding Quiz
+##Employee Application
 
-![Simple Portfolio Page!](/assets/img/portfoli3HighScores.png)
+![Employee Application!](https://watch.screencastify.com/v/sEg1JY2IyLRYUy9wps7k)
 
-##Work Day Scheduler
+##Search for Books
 
-![Simple Portfolio Page!](/assets/img/4WorkDayScheduler.png)
+![Book Search Engine!](/assets/img/21-mern-homework-demo-01.png)
 
 ##Weathermap with API Repository
 
-![Simple Portfolio Page!](/assets/img/5WeatherMap.png)
+![Notetaker APP!](/assets/img/NotetakerImg.png)
 
 ##GIST
 ![Simple Portfolio Page!](/assets/img/6RegexPortfolio.png)
